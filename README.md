@@ -2,7 +2,7 @@
 
 **Overview**
 
-Churn Intelligence is a full-stack ML application that predicts whether a telecom customer will churn, explains why using SHAP values, and surfaces actionable retention strategies — all through a dark-themed, production-quality dashboard.
+Churn Intelligence predicts whether a telecom customer will churn, explains why using SHAP values, and surfaces actionable retention strategies — all through a dark-themed, production-quality dashboard.
  It demonstrates:
  
 
