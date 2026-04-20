@@ -1,11 +1,10 @@
 # Churn prediction 
 
-Production-grade customer churn prediction system built on the Telco dataset.
-XGBoost + SMOTE + SHAP + FastAPI + a dark-themed SaaS dashboard.
-
 **Overview**
+
 Churn Intelligence is a full-stack ML application that predicts whether a telecom customer will churn, explains why using SHAP values, and surfaces actionable retention strategies — all through a dark-themed, production-quality dashboard.
-This project goes beyond a Jupyter notebook. It demonstrates:
+ It demonstrates:
+ 
 
 Real preprocessing pipelines shared between training and inference
 Calibrated decision thresholds (not the default 0.5)
@@ -49,8 +48,6 @@ churn_project/
 ```
 
 ---
-**Tech Stack**
-LayerTechnologyML ModelXGBoost 2.0 with RandomizedSearchCV (30 iterations)Class ImbalanceSMOTE (imbalanced-learn)ExplainabilitySHAP TreeExplainerAPI FrameworkFastAPI + Pydantic v2PreprocessingScikit-learn StandardScaler + custom feature engineeringFrontendHTML + Tailwind CSS + Chart.js — zero framework dependenciesPDF ExportjsPDF + jsPDF-autotable
 
 ## Quick Start
 
