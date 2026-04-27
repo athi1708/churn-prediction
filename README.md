@@ -1,6 +1,6 @@
 Churn prediction
 
-Overview
+** Overview **
 
 Churn Intelligence predicts whether a telecom customer will churn, explains why using SHAP values, and surfaces actionable retention strategies — all through a dark-themed, production-quality dashboard.
 
