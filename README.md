@@ -1,6 +1,6 @@
-Churn prediction
+**Churn prediction**
 
-** Overview **
+**Overview**
 
 Churn Intelligence predicts whether a telecom customer will churn, explains why using SHAP values, and surfaces actionable retention strategies — all through a dark-themed, production-quality dashboard.
 
@@ -16,9 +16,10 @@ Structured FastAPI with routers, services, Pydantic v2 validation, and monitorin
 
 A SaaS-grade frontend with risk tiers, confidence cards, and ROI estimation
 
-Project Structure
+**Project Structure**
 
 churn_project/
+
 ├── data/
 │ └── telco.csv ← put your Telco CSV here
 ├── training/
