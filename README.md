@@ -7,7 +7,6 @@ XGBoost + SMOTE + SHAP + FastAPI + a dark-themed SaaS dashboard.
 
 ## Project Structure
 
-```text
 churn_project/
 ├── data/
 │   └── telco.csv                  ← put your Telco CSV here
