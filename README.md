@@ -48,7 +48,6 @@ churn_project/
 ### 1. Place the dataset
 ```
 churn_project/data/telco.csv
-```
 Download from: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ### 2. Install dependencies
