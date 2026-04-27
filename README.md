@@ -1,4 +1,3 @@
-```md
 Churn prediction
 
 Overview
@@ -191,4 +190,3 @@ POST /predict
 "icon": "exclamation-circle"
 }
 }
-```
