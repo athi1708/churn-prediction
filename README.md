@@ -7,7 +7,7 @@ XGBoost + SMOTE + SHAP + FastAPI + a dark-themed SaaS dashboard.
 
 ## Project Structure
 
-```
+```text
 churn_project/
 ├── data/
 │   └── telco.csv                  ← put your Telco CSV here
@@ -46,8 +46,9 @@ churn_project/
 ## Quick Start
 
 ### 1. Place the dataset
-```
+```text
 churn_project/data/telco.csv
+```
 Download from: https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ### 2. Install dependencies
@@ -61,6 +62,7 @@ pip install -r requirements.txt
 # From project root
 python training/train.py
 ```
+
 This will:
 - Clean and encode the Telco dataset
 - Engineer 10 new features
@@ -70,7 +72,7 @@ This will:
 - Save model artifacts to `backend/model/`
 
 Expected output:
-```
+```text
 AUC-ROC:  ~0.845
 F1 Score: ~0.62
 Optimal threshold: ~0.38–0.44
