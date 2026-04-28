@@ -179,3 +179,12 @@ POST /predict
   }
 }
 ```
+**OUTPUT**
+<img width="1919" height="867" alt="image" src="https://github.com/user-attachments/assets/38809034-ffa8-4024-87e0-c0595d6e6519" />
+<img width="1919" height="859" alt="image" src="https://github.com/user-attachments/assets/8e218d20-2f66-4a5f-b5a8-434e243885c0" />
+<img width="1914" height="898" alt="image" src="https://github.com/user-attachments/assets/e2433d11-a1fc-4a3c-936a-6ea85c745ffb" />
+<img width="1641" height="927" alt="image" src="https://github.com/user-attachments/assets/f721047c-7a3f-4779-b55f-f27d2b96f77b" />
+<img width="1912" height="926" alt="image" src="https://github.com/user-attachments/assets/28e15346-3d57-4854-b39c-5e2d0171b67f" />
+
+
+
