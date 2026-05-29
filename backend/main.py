@@ -1,6 +1,6 @@
 """
 Churn Intelligence API — main entry point
-Run: uvicorn main:app --reload --port 8000
+Run: uvicorn backend.main:app --host 0.0.0.0 --port 10000 
 """
 
 import os, sys, json
