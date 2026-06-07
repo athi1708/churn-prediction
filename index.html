@@ -1119,16 +1119,17 @@ async function loadCustomers() {
 
   document.getElementById('tableLoading').style.display = 'none';
   document.getElementById('tableWrap').style.display    = 'block';
-
+  
   // ✅ REAL WORKING FUNCTIONS
   renderTable();
   initCustomerCharts();
 
-} catch (err) {
+ } catch (err) {
   console.error("Error:", err);
 
   document.getElementById('tableLoading').style.display = 'none';
   document.getElementById('tableError').style.display   = 'block';
+ }
 }
 
 // ── Customer Charts ───────────────────────────────────────────────────────────
