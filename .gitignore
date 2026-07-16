@@ -1,0 +1,48 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+.mypy_cache/
+.pytest_cache/
+.ruff_cache/
+
+# --- Virtual environments ---
+venv/
+.venv/
+env/
+
+# --- Environment / secrets ---
+.env
+.env.*
+*.key
+
+# --- Jupyter ---
+.ipynb_checkpoints/
+
+# --- Datasets ---
+*.csv
+*.tsv
+*.json
+data/
+*.zip
+
+# --- Model artifacts / weights ---
+*.pkl
+*.pt
+*.pth
+*.onnx
+*.h5
+model/
+models/
+checkpoints/
+
+# --- FAISS / vector store indexes ---
+*.index
+faiss_index/
+vectorstore/
+
+# --- OS / editor ---
+.DS_Store
+.vscode/
+.idea/
